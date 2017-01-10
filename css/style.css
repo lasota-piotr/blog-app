@@ -94,9 +94,11 @@ footer .footer-close-btn {
   margin: 0 5%;
 }
 
-footer .footer-comments-btn {
+footer .footer-comments-btn .material-icons {
   float: right;
   margin: 0 5%;
+  font-size: 1.7em;
+  line-height: 10vh;
 }
 
 footer .navigation {
